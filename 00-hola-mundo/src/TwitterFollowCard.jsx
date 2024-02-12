@@ -12,7 +12,7 @@ export function TwitterFollowCard(){
         </header>
         <aside>
             <button className='tw-followCard-button'>
-                Seguir
+                Seguirme
             </button>
         </aside>
        </article>
